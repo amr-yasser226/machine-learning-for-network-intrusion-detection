@@ -1,0 +1,34 @@
+# Python virtual environments
+venv/
+.env/
+  
+# Byte‑compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Matplotlib cache
+.cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
