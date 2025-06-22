@@ -55,7 +55,7 @@ This repository implements a reproducible pipeline to detect network intrusions,
 ## Quickstart
 
 ```bash
-git clone https://github.com/<you>/machine-learning-for-network-intrusion-detection.git
+git clone https://github.com/amr-yasser226/machine-learning-for-network-intrusion-detection.git
 cd machine-learning-for-network-intrusion-detection
 
 python3 -m venv venv
